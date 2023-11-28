@@ -1,0 +1,35 @@
+#ref{
+    display: flex;
+    justify-content: space-evenly;
+    border-style: groove;
+    border-color: black;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+.card{
+    border-style: groove;
+    border-color: black;
+    border-radius: 5%;
+}
+
+.card:hover {
+    transform: scale(1.02);
+  }
+  
+
+.card-img-top{
+    height: 45px;
+    width: 45px;
+}
+
+.btn{
+    display: block;
+    text-align: center;
+    border-style: double;
+    border-color: blue;
+    border-radius: 10%;
+    background-color: cyan;
+    padding: 0%;
+    margin: 0%;
+}
