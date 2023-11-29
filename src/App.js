@@ -1,27 +1,26 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter, Routes, Route} from "react-router-dom";
-import navBar from './components/navBar';
-import home from './components/home';
-import projects from './components/projects';
-import exerience from './components/exerience';
-import refrences from './components/refrences';
-
+import NavBar from './components/navBar';
+import Home from './components/home';
+import Projects from './components/projects';
+import Exerience from './components/exerience';
+import Refrences from './components/refrences';
 
 function App() {
   return (
     <BrowserRouter>
     <div className="App">
       <header>
-        <navBar/>
+        <NavBar/>
       </header>
       <body>
         <div className="content-container">
         <Routes>
-        <Route path="/" element={<home/>}/>
-        <Route path="/projects" element={<projects/>}/>
-        <Route path="/experience" element={<exerience/>}/>
-        <Route path="/refrences" element={<refrences/>}/>
+          <Route path="/" element={<Home/>}/>
+          <Route path="/projects" element={<Projects/>}/>
+          <Route path="/experience" element={<Exerience/>}/>
+          <Route path="/refrences" element={<Refrences/>}/>
         </Routes>
         </div>
         </body>

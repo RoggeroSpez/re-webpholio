@@ -1,4 +1,6 @@
-const exerience = () => {
+import React from "react"
+
+const Exerience = () => {
     return (
         <div>
             <h1>Experience</h1>
@@ -24,4 +26,4 @@ While working at Starbucks, my tasks included; Greeting patrons, able to meet sp
     )
 }
 
-export default exerience
+export default Exerience

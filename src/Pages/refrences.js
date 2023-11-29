@@ -1,6 +1,6 @@
 import React from "react";
 import refrenceCard from "../Components/refrenceCard";
-const refrences = () => {
+const Refrences = () => {
     return(
         <div>
             <h1>Refrences</h1>
@@ -11,4 +11,4 @@ const refrences = () => {
     )
 }
 
-export default refrences;
+export default Refrences;

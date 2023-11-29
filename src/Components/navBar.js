@@ -1,7 +1,9 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
 import "./NavBar.css";
-const navBar = () => {
+
+
+const NavBar = () => {
 <nav className="navBar">
     <NavLink to="/" className={({isActive}) => (isActive ? 'active' : undefined)}>Home</NavLink>
     <NavLink to="/projects" className={({isActive}) => (isActive ? 'active' : undefined)}>Projects</NavLink>
@@ -9,4 +11,4 @@ const navBar = () => {
     <NavLink to="/refrences" className={({isActive}) => (isActive ? 'active' : undefined)}>Refrences</NavLink>
 </nav>
 }
-export default navBar;
+export default NavBar;

@@ -1,7 +1,7 @@
 import React from "react";
 import projectCard from "../Components/projectCard";
 
-const projects = () => {
+const Projects = () => {
     return(
         <div>
             <h3>Projects</h3>
@@ -12,4 +12,4 @@ const projects = () => {
     )
 }
 
-export default projects;
+export default Projects;
