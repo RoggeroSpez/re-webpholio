@@ -2,7 +2,8 @@ import NavBar from './Components/navBar';
 
 const HeadShot = './Media/HeadShot.jpg'
 const Home = () => {
-    return (<>
+    return (
+    <>
     <section className="Home">
         <header>
             <NavBar/>
