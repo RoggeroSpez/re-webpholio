@@ -4,7 +4,9 @@ const HeadShot = './Media/HeadShot.jpg'
 const Home = () => {
     return (<>
     <section className="Home">
-        <NavBar/>
+        <header>
+            <NavBar/>
+        </header>
         <section className="introdcution">
             <img className="HeadShot" src={HeadShot} alt="HeadShot"/>
             <h3>Hello and Welcome to my portfolio!</h3>
