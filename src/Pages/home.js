@@ -1,9 +1,13 @@
-import './Media/Headshot.jpg';
+//import './Media/Headshot.jpg';
+import NavBar from "../Components/navBar";
 
 const Home = () => {
     return (
     <>
     <section className="Home">
+        <header>
+            <NavBar/>
+        </header>
         <section className="introdcution">
             <img className="HeadShot" src='./Media/HeadShot.jpg' alt="HeadShot"/>
             <h3>Hello and Welcome to my portfolio!</h3>

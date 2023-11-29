@@ -1,13 +1,7 @@
-#ref{
-    display: flex;
-    justify-content: space-evenly;
-    border-style: groove;
-    border-color: black;
-    padding: 10px;
-    border-radius: 10%;
-}
-
 .card{
+    display: flexbox;
+    justify-content: space-evenly;
+    padding: 10px;
     border-style: groove;
     border-color: black;
     border-radius: 5%;
