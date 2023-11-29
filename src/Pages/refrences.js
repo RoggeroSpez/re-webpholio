@@ -5,7 +5,7 @@ const Refrences = () => {
     return(
         <div>
             <h1>Refrences</h1>
-            <ol>
+            <ul>
 <li>
  <div class="card" id="tt">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" class="card-img-top" alt="Thierno Thiam Linkedin"/>
@@ -43,7 +43,7 @@ const Refrences = () => {
  </div>
 </div>
 </li>
-            </ol>
+            </ul>
         </div>
     )
 }
