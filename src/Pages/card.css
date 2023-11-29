@@ -1,6 +1,5 @@
 .card{
     display: flexbox;
-    justify-content: space-evenly;
     padding: 10px;
     border-style: groove;
     border-color: black;
