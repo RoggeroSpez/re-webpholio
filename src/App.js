@@ -1,6 +1,12 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter, Routes, Route} from "react-router-dom";
+import navBar from './components/navBar';
+import home from './components/home';
+import projects from './components/projects';
+import exerience from './components/exerience';
+import refrences from './components/refrences';
+
 
 function App() {
   return (
