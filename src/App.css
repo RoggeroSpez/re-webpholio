@@ -9,6 +9,15 @@
     border-radius: 15%;
 }
 
+header {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Cinzel Decorative', serif;
+  font-size: 80%;
+  background-color: slategray;
+}
+
 body{
     background-color: honeydew;
 }
