@@ -2,10 +2,10 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter, Routes, Route} from "react-router-dom";
 import NavBar from './components/navBar';
-import Home from './components/home';
-import Projects from './components/projects';
-import Exerience from './components/exerience';
-import Refrences from './components/refrences';
+import Home from './Pages/home';
+import Projects from './Pages/projects';
+import Exerience from './Pages/exerience';
+import Refrences from './Pages/refrences';
 
 function App() {
   return (
