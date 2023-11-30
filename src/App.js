@@ -28,7 +28,7 @@ function App() {
         <footer id="footer">
           <section id="social">
             <a href="https://www.linkedin.com/in/roggero-spezialy/"> <img id="logo" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="https://www.linkedin.com/in/roggero-spezialy/"/></a>
-            <a href="https://github.com/RoggeroSpez"><img id="logo" src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" alt="https://github.com/RoggeroSpez"/></a>
+            <a href="https://github.com/RoggeroSpez"><img id="logo" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-icon.png" alt="https://github.com/RoggeroSpez"/></a>
           </section><small>&copy; All images are owned by their respective owners, including logos and other items</small>
         </footer>
     </div>
