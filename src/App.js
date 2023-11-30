@@ -6,7 +6,6 @@ import Home from './Pages/home';
 import Projects from './Pages/projects';
 import Exerience from './Pages/experience';
 import Refrences from './Pages/refrences';
-//import 'githublogo.png';
 
 function App() {
   return (
