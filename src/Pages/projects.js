@@ -3,7 +3,7 @@ import './card.css';
 const Projects = () => {
     return(
         <div>
-            <h3>Projects</h3>
+            <h1>Projects</h1>
         <div className="projectCard">
             <ul>
                 <li>
@@ -53,7 +53,7 @@ const Projects = () => {
                 </li>
                 <li>
                     <div class="card" id="">
-                        <img src="" class="card-img-top" alt=""/>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkMHATe0MGAkgUJw_ii_0pw9u4TjvoREjWxaVmzCT0E0-YsmQpWc2YB9ys1ynGXwtb8I&usqp=CAU" class="card-img-top" alt="MemeGenerator"/>
                         <div class="card-body"> <h4 class="card-title">MemeGenerator</h4>
                         <p class="card-text">A meme generator.</p>
                         <a href="https://roggerospez.github.io/MemeGenerator" class="btn">MemeGenerator</a>
