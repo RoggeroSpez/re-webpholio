@@ -1,5 +1,4 @@
 .card{
-    padding: 10px;
     border-style: groove;
     border-color: black;
     border-radius: 5%;
@@ -16,7 +15,6 @@
 }
 
 .btn{
-    display: block;
     text-align: center;
     border-style: double;
     border-color: blue;
