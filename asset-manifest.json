@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/re-webpholio/static/css/main.02282b07.css",
+    "main.js": "/re-webpholio/static/js/main.1d4f4710.js",
+    "static/js/787.5f122339.chunk.js": "/re-webpholio/static/js/787.5f122339.chunk.js",
+    "index.html": "/re-webpholio/index.html",
+    "main.02282b07.css.map": "/re-webpholio/static/css/main.02282b07.css.map",
+    "main.1d4f4710.js.map": "/re-webpholio/static/js/main.1d4f4710.js.map",
+    "787.5f122339.chunk.js.map": "/re-webpholio/static/js/787.5f122339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02282b07.css",
+    "static/js/main.1d4f4710.js"
+  ]
+}
