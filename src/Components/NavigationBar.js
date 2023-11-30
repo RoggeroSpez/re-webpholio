@@ -3,10 +3,10 @@ import styles from "./NavigationBar.module.css"
 
 function NavigationBar () {
     const routes = [
-        {to:"/", text:"Home"},
-        {to:"/experience", text:"Experience"},
-        {to:"/projects", text:"Projects"},
-        {to:"/refrences", text:"Refrences"},
+        {to:"/", text:"  Home  "},
+        {to:"/experience", text:"  Experience  "},
+        {to:"/projects", text:"  Projects  "},
+        {to:"/refrences", text:"  Refrences  "},
     ];
     return(
         <nav className="Navigation">
