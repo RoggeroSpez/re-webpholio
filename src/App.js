@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
-import NavBar from './Components/navBar';
+import NavigationBar from './Components/NavigationBar';
 import Home from './Pages/home';
 import Projects from './Pages/projects';
 import Exerience from './Pages/experience';
@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
       <header>
-        <NavBar/>
+        <NavigationBar/>
       </header>
       <body>
         <div className="content-container">
