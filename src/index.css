@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.headshot {
+    display: flex;
+    height: 15%;
+    width: 15%;
+    border-style: groove;
+    border-color: black;
+    border-radius: 15%;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Cinzel Decorative', serif;
+  font-size: 80%;
+  background-color: slategray;
+}
+
+body{
+    background-color: honeydew;
+}
+
+#footer{
+  background-color: grey;
+}
+
+#logo{
+  height: 45px;
+  width: 45px;
+}
