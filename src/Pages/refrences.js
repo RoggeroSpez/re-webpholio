@@ -5,8 +5,9 @@ const Refrences = () => {
     return(
         <div>
             <h1>Refrences</h1>
-            <ul>
-<li>
+            <table>
+              <tbody>
+<td>
  <div class="card" id="tt">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" class="card-img-top" alt="Thierno Thiam Linkedin"/>
   <div class="card-body"> <h4 class="card-title">Thierno Thiam</h4>
@@ -15,8 +16,8 @@ const Refrences = () => {
   <a href="https://www.linkedin.com/in/thierno-thiam-9753489b" class="btn">Linkedin</a>
  </div>
 </div>
-</li>
-<li>
+</td>
+<td>
   <div class="card" id="bk">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" class="card-img-top" alt="Brian Koh Linkedin"/>
   <div class="card-body"> <h4 class="card-title">Brian Koh</h4>
@@ -24,8 +25,8 @@ const Refrences = () => {
   <a href="https://www.linkedin.com/in/brian-koh-1a025819a" class="btn">Linkedin</a>
  </div>
 </div>
-</li>
-<li>
+</td>
+<td>
  <div class="card" id="bl">
    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" class="card-img-top" alt="Brandon Lomeli Linkedin"/>
    <div class="card-body"> <h4 class="card-title">Brandon Lomeli</h4>
@@ -33,8 +34,8 @@ const Refrences = () => {
    <a href="https://www.linkedin.com/in/brandon-lomeli-b6a5a626a" class="btn">Linkedin</a>
  </div>
 </div>
-</li>
-<li>
+</td>
+<td>
  <div class="card" id="jn">
    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" class="card-img-top" alt="Jimmy Noorani Linkedin"/>
    <div class="card-body"> <h4 class="card-title">Jimmy Noorani</h4>
@@ -42,8 +43,9 @@ const Refrences = () => {
    <a href="https://www.linkedin.com/in/jimmynoorani/" class="btn">Linkedin</a>
  </div>
 </div>
-</li>
-            </ul>
+</td>
+</tbody>
+            </table>
         </div>
     )
 }

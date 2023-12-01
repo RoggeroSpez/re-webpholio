@@ -24,8 +24,7 @@ function App() {
         </Routes>
         </div>
         <div>
-          <h9>Welcome</h9>
-          Big Cards to place Pages too
+          
         </div>
         </body>
         <footer id="footer">
