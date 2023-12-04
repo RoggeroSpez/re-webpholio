@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/re-webpholio/static/css/main.4bfaedec.css",
+    "main.css": "/re-webpholio/static/css/main.7706917a.css",
     "main.js": "/re-webpholio/static/js/main.2e0477d4.js",
     "static/js/787.5f122339.chunk.js": "/re-webpholio/static/js/787.5f122339.chunk.js",
     "index.html": "/re-webpholio/index.html",
-    "main.4bfaedec.css.map": "/re-webpholio/static/css/main.4bfaedec.css.map",
+    "main.7706917a.css.map": "/re-webpholio/static/css/main.7706917a.css.map",
     "main.2e0477d4.js.map": "/re-webpholio/static/js/main.2e0477d4.js.map",
     "787.5f122339.chunk.js.map": "/re-webpholio/static/js/787.5f122339.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bfaedec.css",
+    "static/css/main.7706917a.css",
     "static/js/main.2e0477d4.js"
   ]
 }
