@@ -23,9 +23,6 @@ function App() {
           <Route path="/refrences" element={<Refrences/>}/>
         </Routes>
         </div>
-        <div>
-          
-        </div>
         </body>
         <footer id="footer">
           <section id="social">
