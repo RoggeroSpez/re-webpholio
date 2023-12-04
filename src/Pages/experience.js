@@ -15,21 +15,21 @@ return (
 </tbody>
 </table>
 <div class="card" id="cert">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82571095" class="card-img-top" alt="Certification"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82571095" class="cert-card" alt="Certification"/>
 <div class="card-body"> <h4 class="card-title">Introductory to Front-End Software Development</h4>
 <p class="card-text"></p>
 <a href="https://www.credential.net/a920b61c-0dc0-4dfa-bac9-e1ea97107bb5?record_view=true#gs.164jww" class="btn">Link</a>
 </div>
 </div>
 <div class="card" id="cert">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82865771" class="card-img-top" alt="Certification"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82865771" class="cert-card" alt="Certification"/>
 <div class="card-body"> <h4 class="card-title">Intermediate to Front-End Software Development</h4>
 <p class="card-text"></p>
 <a href="https://www.credential.net/99d03df7-3c95-4ad2-b156-9ea40380b366?record_view=true#gs.164jwz" class="btn">Link</a>
 </div>
 </div>
 <div class="card" id="cert">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82570959" class="card-img-top" alt="Certification"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82570959" class="cert-card" alt="Certification"/>
 <div class="card-body"> <h4 class="card-title">Fondational to Front-End Software Development</h4>
 <p class="card-text"></p>
 <a href="https://www.credential.net/df366dae-d3b1-4763-a44f-a23b67d8e878?record_view=true#gs.164jwx" class="btn">Link</a>
